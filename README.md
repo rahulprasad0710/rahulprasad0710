@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Rahul Prasad  
-**Full Stack Software Developer** | Kathmandu, Nepal  
+**Full Stack Developer** | Kathmandu, Nepal  
 
-I’m a passionate developer with over **5 years of experience** building and scaling SaaS and government systems. I specialize in modern web technologies, cloud infrastructure, and end-to-end ownership of production systems—from design to deployment.
+I’m a passionate developer with over **5 years of experience** building and scaling production-grade SaaS and government systems. 
+I specialize in modern web technologies, cloud infrastructure, and end-to-end ownership of production systems—from design to deployment.
+My background combines deep technical execution with formal financial education, making me well-suited for a SaaS or finance-driven engineering environment.
 
 ---
 
 ## 🚀 Skills  
-- **Languages:** TypeScript, JavaScript, SQL ,Java
-- **Frontend:** React, Next.js, Vue.js, Tailwind CSS , MaterialUI, Chakra UI 
+- **Languages:** TypeScript, JavaScript, SQL, Java
+- **Frontend:** React, Next.js, Vue.js, Tailwind CSS , MaterialUI, ChakraUI 
 - **Backend:** Node.js, Express, GraphQL, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, SpringBoot, Jest  
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS), Docker, Nginx, GitHub Actions, CI/CD Pipelines, Jira  
 
@@ -18,25 +20,25 @@ I’m a passionate developer with over **5 years of experience** building and sc
 ### **Full Stack Developer** @ Aus Nepal IT Solution  
 - Implemented Redis-based caching for auth endpoints, improving API response times by ~40% under peak load.  
 - Designed multi-table transactional workflows (14+ tables) with idempotency and ACID compliance.  
-- Built a dynamic form system with React and MantineUI, integrated with AWS S3 for PDF generation and storage.
+- Built a dynamic form system with React ,Redux, MantineUI, integrated with AWS S3 for PDF generation and storage in a event driven appraoch.
 
 ### **Full Stack Developer** @ CliffByte Pvt Ltd  
 - Developed secure, form-heavy government and KYC systems using React, ChakraUI, Node.js, and GraphQL.  
-- Built a multi-tenant SaaS frontend in React/Tailwind/TypeScript, integrated with a PHP backend.
+- Built a multi-tenant SaaS frontend in React/Tailwind/ReactQuery/TypeScript, integrated with a PHP backend.
 
 ### **Full Stack Developer** @ Edalio Pvt Ltd  
-- **Video Streaming Platform (OTT):** Designed scalable video upload/streaming using AWS S3, Kafka, and HLS.  
-- **E-commerce Platform:** Led frontend development with Vue.js and React, built backend delivery management with Node.js and MongoDB.
+- **Video Streaming Platform (OTT):** Designed scalable video upload/streaming using AWS S3, Kafka, and HLS.  (React/Redux/ExpressJS/Postgress)
+- **E-commerce Platform:** Led frontend development with Vue.js and React (on Admin Side), built backend delivery management with Node.js , ExpressJS and MongoDB.
 
 ---
 
 ## 🛠️ Featured Projects  
 
 ### **[Project Management App](https://workcentrik.publicvm.com)**  
-Full-stack TypeScript app with React, Node.js, PostgreSQL, AWS S3, Redis, Socket.IO, and Dockerized CI/CD.
+Full-stack TypeScript app with React, Node.js, PostgreSQL, AWS S3, Redis, Socket.IO, and Dockerized CI/CD on EC2.
 
 ### **[Next.js E-Commerce App](https://homeable.publicvm.com)**  
-Modern e-commerce built with Next.js 15, Drizzle ORM, Google OAuth, SSR for SEO, Tailwind CSS, and Dockerized deployment.
+Modern e-commerce built with Next.js 15, Drizzle ORM,Better Auth,  Google OAuth, SSR for SEO, Tailwind CSS, and Dockerized deployment.
 
 ---
 
