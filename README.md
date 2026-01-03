@@ -1,37 +1,56 @@
-### Hi there 👋
+# 👋 Hi, I'm Rahul Prasad  
+**Full Stack Software Developer** | Kathmandu, Nepal  
 
-<!--
-**rahulprasad0710/rahulprasad0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate developer with over **5 years of experience** building and scaling SaaS and government systems. I specialize in modern web technologies, cloud infrastructure, and end-to-end ownership of production systems—from design to deployment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-- :telescope: I’m working as a Full Stack Developer and contributing to frontend and backend for building web applications.
+## 🚀 Skills  
+- **Languages:** TypeScript, JavaScript, SQL ,Java
+- **Frontend:** React, Next.js, Vue.js, Tailwind CSS , MaterialUI, Chakra UI 
+- **Backend:** Node.js, Express, GraphQL, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, SpringBoot, Jest  
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS), Docker, Nginx, GitHub Actions, CI/CD Pipelines, Jira  
 
-- :seedling: Exploring Technical Content Writing.
+---
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+## 💼 Work Experience  
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/rahul-prasad-8318a1245/))
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+### **Full Stack Developer** @ Aus Nepal IT Solution  
+- Implemented Redis-based caching for auth endpoints, improving API response times by ~40% under peak load.  
+- Designed multi-table transactional workflows (14+ tables) with idempotency and ACID compliance.  
+- Built a dynamic form system with React and MantineUI, integrated with AWS S3 for PDF generation and storage.
+
+### **Full Stack Developer** @ CliffByte Pvt Ltd  
+- Developed secure, form-heavy government and KYC systems using React, ChakraUI, Node.js, and GraphQL.  
+- Built a multi-tenant SaaS frontend in React/Tailwind/TypeScript, integrated with a PHP backend.
+
+### **Full Stack Developer** @ Edalio Pvt Ltd  
+- **Video Streaming Platform (OTT):** Designed scalable video upload/streaming using AWS S3, Kafka, and HLS.  
+- **E-commerce Platform:** Led frontend development with Vue.js and React, built backend delivery management with Node.js and MongoDB.
+
+---
+
+## 🛠️ Featured Projects  
+
+### **[Project Management App](https://workcentrik.publicvm.com)**  
+Full-stack TypeScript app with React, Node.js, PostgreSQL, AWS S3, Redis, Socket.IO, and Dockerized CI/CD.
+
+### **[Next.js E-Commerce App](https://homeable.publicvm.com)**  
+Modern e-commerce built with Next.js 15, Drizzle ORM, Google OAuth, SSR for SEO, Tailwind CSS, and Dockerized deployment.
+
+---
+
+## 🎓 Education  
+- **Executive MBA (Finance)** – Ace College of Management *(2021–2023)*  
+- **B.E. Electrical and Electronics Engineering** – NIT Warangal, India *(2013–2017)*  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: [raushah2021@hotmail.com](mailto:raushah2021@hotmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/rahul-prasad-8318a1245](https://www.linkedin.com/in/rahul-prasad-8318a1245)  
+- 💻 GitHub: [github.com/rahulprasad0710](https://github.com/rahulprasad0710)  
+
+---
+
+> Open to **remote roles** where I can build scalable, impactful software with modern stacks and cloud-native tools.
