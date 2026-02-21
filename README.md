@@ -7,20 +7,22 @@ My background combines deep technical execution with formal financial education,
 
 ---
 
-## 🚀 Skills  
-- **Languages:** TypeScript, JavaScript, SQL, Java
-- **Frontend:** React, Next.js, Vue.js, Tailwind CSS , MaterialUI, ChakraUI 
-- **Backend:** Node.js, Express, GraphQL, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, SpringBoot, Jest  
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS), Docker, Nginx, GitHub Actions, CI/CD Pipelines, Jira  
+## 🚀 Skills
+
+● Languages: TypeScript, JavaScript, SQL  
+● Frontend: React, Next.js, Vue.js, React Native  
+● Backend: ExpressJS, NestJS, GraphQL, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Elasticsearch  
+● Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Nginx, GitHub Actions, CI/CD Pipelines  
+● Monitoring & Testing: Jest, Prometheus, Grafana,Jira  
 
 ---
 
 ## 💼 Work Experience  
 
-### **Full Stack Developer** @ Aus Nepal IT Solution  
-- Implemented Redis-based caching for auth endpoints, improving API response times by ~40% under peak load.  
-- Designed multi-table transactional workflows (14+ tables) with idempotency and ACID compliance.  
-- Built a dynamic form system with React ,Redux, MantineUI, integrated with AWS S3 for PDF generation and storage in a event driven appraoch.
+### **Full Stack Developer** @ Aus Nepal IT Solution    
+- 🏗️ Construction Management System : Designed and implemented complex multi-table transactional workflows (14+ tables) with idempotency controls, ensuring ACID compliance and preventing duplicate processing in concurrent scenarios.
+- Built a secure authentication and authorization layer using JWT with rotating access and refresh tokens, leveraging a Redis singleton pattern for centralized token storage and Redis-based caching of auth endpoints.
+- Implemented a Purchase Order (PO) module with dynamic form rendering on the frontend (Next.js, Tailwind CSS) and an event-driven backend where PDF generation and email notifications are processed asynchronously using Redis Bull queues, with generated assets stored in AWS S3.
 
 ### **Full Stack Developer** @ CliffByte Pvt Ltd  
 - Developed secure, form-heavy government and KYC systems using React, ChakraUI, Node.js, and GraphQL.  
@@ -32,15 +34,39 @@ My background combines deep technical execution with formal financial education,
 
 ---
 
-## 🛠️ Featured Projects  
+## 🛠️ Projects
 
-### **[Project Management App](https://workcentrik.publicvm.com)**  
-Full-stack TypeScript app with React, Node.js, PostgreSQL, AWS S3, Redis, Socket.IO, and Dockerized CI/CD on EC2.
+### Admincentrik — Full-Stack E-Commerce Application
 
-### **[Next.js E-Commerce App](https://homeable.publicvm.com)**  
-Modern e-commerce built with Next.js 15, Drizzle ORM,Better Auth,  Google OAuth, SSR for SEO, Tailwind CSS, and Dockerized deployment.
 
----
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-admincentrik.com-blue?style=for-the-badge)](http://www.admincentrik.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
+
+A production-ready, full-stack e-commerce platform built with **Next.js 15** and **TypeScript**, featuring server-side rendering for SEO, Google OAuth authentication, a PostgreSQL database with Drizzle ORM, and a fully automated CI/CD pipeline via Docker and GitHub Actions.
+
+🌐 **Live:** [http://www.admincentrik.com/](http://www.admincentrik.com/)
+
+<img src="assets/s1.png" width="300" />
+<img src="assets/s2.png" width="300" />
+<img src="assets/s3.png" width="300" />
+<img src="assets/p1.png" width="300" />
+<img src="assets/p2.png" width="300" />
+<img src="assets/p3.png" width="300" />
+
+
+Key features include:  
+- **Database & ORM:** PostgreSQL with Drizzle & TypeORM  
+- **Async & Real-Time:** Redis-backed background processing, event-driven workflows, and real-time updates via Socket.IO  
+- **Assets & Storage:** AWS S3 for file storage  
+- **Deployment:** Dockerized CI/CD pipelines with GitHub Actions to AWS EC2  
+
+**Live Apps:**  
+- [Project Management App (Admin)](https://web.admincentrik.com/)  
+- [Next.js E-Commerce App (Client)](https://admincentrik.com/)
 
 ## 🎓 Education  
 - **Executive MBA (Finance)** – Ace College of Management *(2021–2023)*  
