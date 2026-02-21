@@ -53,15 +53,15 @@ A production-ready, full-stack e-commerce platform built with **Next.js 15** and
 🌐 **Live:** [http://www.admincentrik.com/](http://www.admincentrik.com/)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
- <img src="assets/s1.png" width="300" />
-<img src="assets/s2.png" width="300" />
-<img src="assets/s3.png" width="300" />
+ <img src="assets/s1.png" width="280" />
+<img src="assets/s2.png" width="280" />
+<img src="assets/s3.png" width="280" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/p1.png" width="300" />
-<img src="assets/p2.png" width="300" />
-<img src="assets/p4.png" width="300" />
+  <img src="assets/p1.png" width="280" />
+<img src="assets/p2.png" width="280" />
+<img src="assets/p4.png" width="280" />
 </div>
 
 Key features include:
